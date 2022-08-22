@@ -19,11 +19,15 @@ public class Addition1
 			
 			e=a+b;
 			
+			f=a*a;
+			
 			System.out.println("Multiplication of 2 Number is "+c);
 			
 			System.out.println("Subtration of 2 Number  is "+d);
 			
 			System.out.println("Addition of 2 Number  is "+e);
+			
+			System.out.println("Addition of 2 Number  is "+f);
 			
 
 	}
