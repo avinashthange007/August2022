@@ -9,11 +9,13 @@ public class Addition1
 			
 			int b=30;
 			
-			int g;
+			int g=250;
 			
 			System.out.println("Number 1st is "+a);
 			
 			System.out.println("Number 1st is "+b);
+			
+			System.out.println("Number 1st is "+g);
 			
 			c=a*b;
 			
