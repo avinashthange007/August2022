@@ -5,7 +5,7 @@ public class Addition1
 
 	public static void main(String[] args) 
 	{
-			int a=25,c,d,e;
+			int a=25,c,d,e,f;
 			
 			int b=30;
 			
