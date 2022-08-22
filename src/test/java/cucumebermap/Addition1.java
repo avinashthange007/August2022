@@ -5,7 +5,7 @@ public class Addition1
 
 	public static void main(String[] args) 
 	{
-			int a=25,c,d;
+			int a=25,c,d,e;
 			
 			int b=30;
 			
@@ -17,10 +17,13 @@ public class Addition1
 			
 			d=a-b;
 			
+			e=a+b;
+			
 			System.out.println("Multiplication of 2 Number is "+c);
 			
 			System.out.println("Subtration of 2 Number  is "+d);
 			
+			System.out.println("Addition of 2 Number  is "+e);
 			
 
 	}
